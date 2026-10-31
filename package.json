@@ -1,0 +1,16 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "HTTP-сервер на Node.js: погодні дані, варіант 7",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node --watch main.js"
+  },
+  "author": "Федорів Тимофій Юрійович",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
